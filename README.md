@@ -21,9 +21,9 @@ Este proyecto es un script en Python que simula un verificador de seguridad de c
 
 ## Instalación
 1. Clona este repositorio:
-2. ```$ Git clone https://github.com/tu-usuario/verificador-contrasenas.git```
+2. ```$ Git clone https://github.com/Josuegitgub/Password-Security-Checker.git```
 3. Navega al directorio del proyecto:
-4. ```$CD Verificador-Contrasenas```
+4. ```$CD Password-Security-Checker```
 5. Ejecuta el script directamente (no requiere instalación adicional):
 6. ```Python Password-Security-Checker.py```
 
@@ -34,18 +34,7 @@ Este proyecto es un script en Python que simula un verificador de seguridad de c
 - **1**: Verificación aleatoria (puede tomar mucho tiempo para contraseñas largas).
 - **2**: Verificación inteligente (eficiente, encuentra la contraseña en pocos intentos).
 4. Observa el proceso en pantalla y el análisis final.
-
-### Ejemplos
-- **Contraseña simple** (ej. "abc"):
-- Opción 1: Puede encontrar en pocos intentos aleatorios.
-- Opción 2: Encuentra rápidamente probando caracteres por posición.
-- Análisis: Clasificación "Muy débil", tiempos bajos.
-
-- **Contraseña compleja** (ej. "P@ssw0rd123!"):
-- Opción 1: Probablemente no termine en tiempo razonable.
-- Opción 2: Encuentra en ~10-20 intentos.
-- Análisis: Clasificación "Fuerte", tiempos estimados altos (años).
-
+  
 ## Contribuciones
 ¡Las contribuciones son bienvenidas! Si quieres mejorar el código (ej. agregar más caracteres, optimizar cálculos o traducir a otros idiomas), sigue estos pasos:
 1. Haz un fork del repositorio.
