@@ -23,9 +23,9 @@ Este proyecto es un script en Python que simula un verificador de seguridad de c
 1. Clona este repositorio:
 2. ```$ Git clone https://github.com/Josuegitgub/Password-Security-Checker.git```
 3. Navega al directorio del proyecto:
-4. ```$CD Password-Security-Checker```
+4. ```$ CD Password-Security-Checker```
 5. Ejecuta el script directamente (no requiere instalación adicional):
-6. ```Python Password-Security-Checker.py```
+6. ```$ Python Password-Security-Checker.py```
 
 ## Uso
 1. Ejecuta el script con `python Password-Security-Checker.py`.
